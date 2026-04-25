@@ -6,7 +6,7 @@
   How to reach me: <strong>hanzlagonero@gmail.com</strong>
 </p>
 
----
+***
 
 <h3 align="left">Language and Tools:</h3>
 
@@ -31,3 +31,16 @@
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-6C47FF?style=flat&logo=thunderclient&logoColor=white)
+
+***
+
+<h3 align="left">Architectures & Design Patterns</h3>
+
+<ul>
+  <li>MVC (Model–View–Controller, API-oriented)</li>
+  <li>RESTful API Design</li>
+  <li>Repository Pattern (data access abstraction)</li>
+  <li>Service Layer Pattern (business logic separation)</li>
+  <li>Dependency Injection (loose coupling, better testability)</li>
+  <li>Layered Architecture (Controller → Service → Repository → Database)</li>
+</ul>
